@@ -5,17 +5,13 @@ Trying to improve and discover myself.
 I enjoy Automatization, Machine Learning and Data Science. Sometimes I like to play with Front-end.
 
 ## Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50, height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50, height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50, height=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=55, height=55/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=50, height=50/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,mysql&theme=light)](https://skillicons.dev)
           
 ## Tools and Frameworks
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width=50, height=50/>                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width=50, height=50/>
+[![My Skills](https://skillicons.dev/icons?i=angular,git&theme=light)](https://skillicons.dev)
           
 ## Learning
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width=50, height=50/>                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=50, height=50/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=50, height=50/>                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=50, height=50/>
+[![My Skills](https://skillicons.dev/icons?i=rust,sass,tensorflow,sklearn&theme=light)](https://skillicons.dev)
 
 -----
 > The mind is not a vessel to be filled but a fire to be kindled.
